@@ -1,8 +1,8 @@
 package packets
 
 import (
-	"github.com/LuckyC4t/pppoe-hijack-go/internal/global"
-	"github.com/LuckyC4t/pppoe-hijack-go/internal/utils"
+	"github.com/asjdf/pppoe-hijack-go/internal/global"
+	"github.com/asjdf/pppoe-hijack-go/internal/utils"
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"
 	"log"

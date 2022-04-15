@@ -1,5 +1,7 @@
-module github.com/LuckyC4t/pppoe-hijack-go
+module github.com/asjdf/pppoe-hijack-go
 
-go 1.16
+go 1.18
 
 require github.com/google/gopacket v1.1.19
+
+require golang.org/x/sys v0.0.0-20190412213103-97732733099d // indirect

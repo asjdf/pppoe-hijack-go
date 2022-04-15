@@ -2,7 +2,7 @@ package actions
 
 import (
 	"fmt"
-	"github.com/LuckyC4t/pppoe-hijack-go/internal/packets"
+	"github.com/asjdf/pppoe-hijack-go/internal/packets"
 	"github.com/google/gopacket/layers"
 )
 
